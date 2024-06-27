@@ -49,7 +49,7 @@ public class Sports {
 
     public static void display() {
         int totalCounter = BallSports.getCounter() + WaterSports.getCounter() + Athletics.getCounter() + Gymnastics.getCounter();
-        System.out.println("\n\t*** " + totalCounter + ((totalCounter > 1 || totalCounter == 0) ? "games" : "game") + " is booked ***\n");
+        System.out.println("\n\t*** " + totalCounter + ((totalCounter > 1 || totalCounter == 0) ? " games" : " game") + " is booked ***\n");
         BallSports.display();
         WaterSports.display();
         Athletics.display();

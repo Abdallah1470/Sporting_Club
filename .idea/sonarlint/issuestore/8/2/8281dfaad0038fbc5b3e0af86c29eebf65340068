@@ -1,0 +1,63 @@
+
+]
+java:S1220""Move this file to a named package.8—ĞŸ³…2J$d728b8ff-7259-4a8f-bfb7-3ec9f5b0b3ba
+ 	java:S135D"YReduce the total number of break and continue statements in this loop to use at most one.(ü§è½ùÿÿÿÿ8§ĞŸ³…2J$2603e5dd-4606-4696-97c9-b5e1c5bfc9a0
+ 	java:S135_"YReduce the total number of break and continue statements in this loop to use at most one.(ü§è½ùÿÿÿÿ8§ĞŸ³…2J$e0cd5c34-24ba-418c-b506-0a1c29b6fafe
+ 	java:S135z"YReduce the total number of break and continue statements in this loop to use at most one.(ü§è½ùÿÿÿÿ8§ĞŸ³…2J$91613e33-0f6b-478d-9cbb-aae0aa53b6b2
+°
+java:S1192I"mDefine a constant instead of duplicating this literal "Invalid input. Please enter a numeric value." 4 times.(Ü®¦™8§ĞŸ³…2J$bac515d0-8aee-4d7e-9944-bad54edee2f8
+·
+java:S1192V"tDefine a constant instead of duplicating this literal "Invalid time slot. Please select a valid time slot." 6 times.(è¿”8§ĞŸ³…2J$9ff58ded-1498-4a5e-926e-989c8308a4b1
+
+java:S1192É"KDefine a constant instead of duplicating this literal " is booked" 3 times.(½û³Ò8úœ›µ…2J$b9c64da4-4b9b-48ab-b5e9-31bc73d5b945
+
+java:S1192$"MDefine a constant instead of duplicating this literal ":00 (Booked)" 3 times.(Šƒ¡ä8§ĞŸ³…2J$f875f631-fcf7-4291-b968-76e6f88b8190
+
+java:S1192P"KDefine a constant instead of duplicating this literal "Time slot " 6 times.(Ìœì8§ĞŸ³…2J$b830f24b-57b6-46a1-b030-e1d17342106d
+˜
+java:S1192&"PDefine a constant instead of duplicating this literal ":00 (Available)" 3 times.(˜²®êşÿÿÿÿ8§ĞŸ³…2J$76578dc4-507b-4b68-bbdd-288a6aa6468c
+‹
+java:S1192$"HDefine a constant instead of duplicating this literal ". From " 6 times.(Šƒ¡ä8§ĞŸ³…2J$6a4c7d45-775f-4ef6-8105-c3dffa75a261
+˜
+java:S1192P"VDefine a constant instead of duplicating this literal " booked successfully." 3 times.(Ìœì8§ĞŸ³…2J$708a82c1-164d-40dc-9847-f9871f0c4d8e
+Š
+java:S1192È"FDefine a constant instead of duplicating this literal "games" 4 times.( ŞØê8§ĞŸ³…2J$76a66e31-78a2-42e9-9a82-8d85b0d6e6eb
+µ
+java:S1192T"mDefine a constant instead of duplicating this literal " is booked. Please select another time slot." 3 times.(àĞÎÿÿÿÿÿ8§ĞŸ³…2J$131b2c3b-20ad-4ebc-99a4-bed8c5c49cf9
+‹
+java:S1192$"HDefine a constant instead of duplicating this literal ":00 to " 7 times.(Šƒ¡ä8§ĞŸ³…2J$7d660adf-2861-4775-ae7c-6f9038691a16
+l	java:S106)"+Replace this use of System.out by a logger.(®ñ¸8§ĞŸ³…2J$87654d59-00a3-424e-8e17-bb8a28847484
+r	java:S1064"+Replace this use of System.out by a logger.(¸ÎŠŠşÿÿÿÿ8§ĞŸ³…2J$40cc515c-e723-41f6-b1c6-6f55343022f0
+r	java:S106?"+Replace this use of System.out by a logger.(Úèµ™ùÿÿÿÿ8§ĞŸ³…2J$0a4dc9ee-59fe-441e-99d7-48e79a7854cc
+m	java:S106I"+Replace this use of System.out by a logger.(Ü®¦™8§ĞŸ³…2J$974f3b12-8566-4b8e-8cc5-cdb2ec8e3fa8
+l	java:S106P"+Replace this use of System.out by a logger.(Ìœì8§ĞŸ³…2J$5267070a-a15c-43ee-8211-06078cfddf46
+r	java:S106T"+Replace this use of System.out by a logger.(àĞÎÿÿÿÿÿ8§ĞŸ³…2J$d57f9a55-365e-4d7c-a237-1f2d4ff22959
+m	java:S106V"+Replace this use of System.out by a logger.(è¿”8§ĞŸ³…2J$23f6cc45-6306-475c-9910-e0f413f6f072
+m	java:S106Y"+Replace this use of System.out by a logger.(è¿”8§ĞŸ³…2J$45345f28-3c28-4fe5-9567-2aedcc38d269
+m	java:S106d"+Replace this use of System.out by a logger.(Ü®¦™8§ĞŸ³…2J$91ad4ed1-765b-4499-a6bc-f10cb3316b91
+l	java:S106k"+Replace this use of System.out by a logger.(Ìœì8§ĞŸ³…2J$00d9a0f0-6018-421b-a0f6-9861edce046b
+r	java:S106o"+Replace this use of System.out by a logger.(àĞÎÿÿÿÿÿ8§ĞŸ³…2J$70768609-78a6-44ac-a748-711f8692c275
+m	java:S106q"+Replace this use of System.out by a logger.(è¿”8§ĞŸ³…2J$b88a4a78-16b1-4e6e-865f-d7a5501315af
+m	java:S106t"+Replace this use of System.out by a logger.(è¿”8¶ĞŸ³…2J$fe20aadf-ec31-481d-a3de-572206c8d26f
+m	java:S106"+Replace this use of System.out by a logger.(Ü®¦™8¶ĞŸ³…2J$df811d9a-bd3c-46b9-a741-4b0247f332f4
+m	java:S106†"+Replace this use of System.out by a logger.(Ìœì8¶ĞŸ³…2J$8f5fe1cb-4899-43b3-a5f4-e09f7b8fae97
+s	java:S106Š"+Replace this use of System.out by a logger.(àĞÎÿÿÿÿÿ8¶ĞŸ³…2J$535c8d44-d52d-4d1a-b624-185685c8eaa5
+n	java:S106Œ"+Replace this use of System.out by a logger.(è¿”8¶ĞŸ³…2J$859d4951-567f-4a28-8262-34d72d5c7e1c
+n	java:S106"+Replace this use of System.out by a logger.(è¿”8¶ĞŸ³…2J$94b7391d-e042-4498-a750-cb656d1a65b5
+s	java:S106•"+Replace this use of System.out by a logger.(ÅŠ¤Ùøÿÿÿÿ8¶ĞŸ³…2J$34b4ead9-28bf-45ef-8c39-87181d91588a
+l
+java:S5665–"(Remove this unnecessary escape sequence.(Ìş³È8¶ĞŸ³…2J$b99e80b9-c621-4e6d-a9c7-2b680b387cfc
+
+java:S2696¢"6Make the enclosing method "static" or remove this set.(Œ„ÜÔùÿÿÿÿ8¶ĞŸ³…2J$7e992e10-f9fc-4486-bbdb-a498782b5120
+z
+java:S2696¦"6Make the enclosing method "static" or remove this set.(Æ«Ãí8¶ĞŸ³…2J$afb9d7bf-b1c4-484f-995c-4b5d1f0c2ba4
+
+java:S2696ª"6Make the enclosing method "static" or remove this set.(ş¶âÖüÿÿÿÿ8¶ĞŸ³…2J$2bc36b73-da9e-47e1-a89e-3617c7817d9b
+s	java:S106­"+Replace this use of System.out by a logger.(§¢¢ñûÿÿÿÿ8¶ĞŸ³…2J$3f81eba2-4660-44c8-a943-06a5c9b4f056
+n	java:S106±"+Replace this use of System.out by a logger.(Ü®¦™8¶ĞŸ³…2J$0e271a36-1080-4854-aace-5ebae11a9f91
+s	java:S106¶"+Replace this use of System.out by a logger.(­ë÷±ıÿÿÿÿ8¶ĞŸ³…2J$57a7ff7f-da06-4a7e-ad39-ea9cc8d7c033
+n	java:S106È"+Replace this use of System.out by a logger.( ŞØê8¶ĞŸ³…2J$0eaacc51-b11d-43f8-b9ad-4639dde84aef
+n	java:S106É"+Replace this use of System.out by a logger.(½û³Ò8¶ĞŸ³…2J$a8ff4a5d-daea-4d99-8a00-352ba803fbb4
+n	java:S106Ê"+Replace this use of System.out by a logger.(é”°û8¶ĞŸ³…2J$513ac816-0043-4335-b951-c69d7e2889cf
+s	java:S106Ë"+Replace this use of System.out by a logger.(ˆ¼€şÿÿÿÿ8õõ¨³…2J$c3f571cf-9af9-47d2-a4a4-aa97f6139178
+s	java:S106Ì"+Replace this use of System.out by a logger.(ÛÕö ùÿÿÿÿ8ª–¶³…2J$91342ba2-2554-4ab7-af60-2c2be9f09b53

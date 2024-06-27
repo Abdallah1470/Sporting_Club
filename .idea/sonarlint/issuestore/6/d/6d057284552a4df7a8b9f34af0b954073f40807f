@@ -1,0 +1,69 @@
+
+]
+java:S1220""Move this file to a named package.8Ê„‡´…2J$e8702c5e-a0a0-42cc-bdeb-bf7b903a9097
+ 	java:S135C"YReduce the total number of break and continue statements in this loop to use at most one.(ü§è½ùÿÿÿÿ8Ê„‡´…2J$8cfa0366-629b-4a1d-86b7-21b3163d40cc
+ 	java:S135^"YReduce the total number of break and continue statements in this loop to use at most one.(ü§è½ùÿÿÿÿ8Ê„‡´…2J$63c19b06-8440-4d54-b3dc-d8dc70735b81
+ 	java:S135y"YReduce the total number of break and continue statements in this loop to use at most one.(ü§è½ùÿÿÿÿ8Ê„‡´…2J$e5d636ed-5bb0-41ca-8728-c765e432a2ab
+°
+java:S1192H"mDefine a constant instead of duplicating this literal "Invalid input. Please enter a numeric value." 4 times.(Ü®¦™8Ê„‡´…2J$e003c7c0-371f-4661-ba45-041dadcd1b92
+½
+java:S1192S"uDefine a constant instead of duplicating this literal " is already booked. Please select another time slot." 3 times.(šÚŞ«ùÿÿÿÿ8Ê„‡´…2J$75d6998d-5c95-4a68-93ab-53a053b37689
+·
+java:S1192U"tDefine a constant instead of duplicating this literal "Invalid time slot. Please select a valid time slot." 6 times.(è¿”8Ê„‡´…2J$33a3fb43-e63b-4f2d-a98c-8d7e3880e381
+•
+java:S1192$"MDefine a constant instead of duplicating this literal ":00 (Booked)" 3 times.(ÚÜëêûÿÿÿÿ8Ê„‡´…2J$b77b6cb9-5fcb-498b-9b93-a192de9cdf79
+
+java:S1192O"KDefine a constant instead of duplicating this literal "Time slot " 6 times.(—şİæ8Ê„‡´…2J$d7bf3a02-e622-46a5-b965-5f644cd2cfa0
+“
+java:S1192&"PDefine a constant instead of duplicating this literal ":00 (Available)" 3 times.(¿ŠĞñ8Ê„‡´…2J$519317a9-067f-4373-8bf8-424cc81b6588
+
+java:S1192$"HDefine a constant instead of duplicating this literal ". From " 6 times.(ÚÜëêûÿÿÿÿ8Ê„‡´…2J$f9ac1140-d6b9-47b7-8bd5-4709bdcccff4
+›
+java:S1192O"XDefine a constant instead of duplicating this literal " is successfully booked" 3 times.(—şİæ8Ê„‡´…2J$920d7e07-fa6d-490d-8b54-de27c4f2be06
+
+java:S1192Ç"FDefine a constant instead of duplicating this literal "games" 4 times.(Şì´âùÿÿÿÿ8Ê„‡´…2J$02ddbc6d-90b1-461b-b555-4014be505dfa
+
+java:S1192$"HDefine a constant instead of duplicating this literal ":00 to " 7 times.(ÚÜëêûÿÿÿÿ8Ê„‡´…2J$5f0956bf-94cb-4fa8-a4e9-e0f63e2c3564
+Œ
+java:S1192È"HDefine a constant instead of duplicating this literal " booked" 3 times.(¦© ©8Ê„‡´…2J$5d52f320-e8ef-4906-b384-85274bff1ded
+m	java:S106)"+Replace this use of System.out by a logger.(ş¾Ïû8×„‡´…2J$cd14c585-b919-46a7-a7a6-c7669bbb68ee
+r	java:S1064"+Replace this use of System.out by a logger.(ü…‚»üÿÿÿÿ8×„‡´…2J$e2bb002e-60d9-461e-91dd-faa54a205686
+r	java:S106?"+Replace this use of System.out by a logger.(Ï¥‹ûÿÿÿÿ8×„‡´…2J$8157a90f-386f-4627-bdaf-adfc17cb87c0
+m	java:S106H"+Replace this use of System.out by a logger.(Ü®¦™8×„‡´…2J$09c2b255-dc91-4ab8-b9de-11957aed6544
+y
+java:S2696N"6Make the enclosing method "static" or remove this set.(ÿËÄŒ8×„‡´…2J$25b48ad1-c440-4f97-8517-65b2aacc9a51
+m	java:S106O"+Replace this use of System.out by a logger.(—şİæ8×„‡´…2J$2ed252cb-ae12-4034-a8e6-5296ae6f9f76
+r	java:S106S"+Replace this use of System.out by a logger.(šÚŞ«ùÿÿÿÿ8×„‡´…2J$7e80e59c-b02d-4a6d-8cc5-a25efb9e82a4
+m	java:S106U"+Replace this use of System.out by a logger.(è¿”8×„‡´…2J$8b364d4b-70e6-4c6a-ad34-bceee5aa3930
+m	java:S106X"+Replace this use of System.out by a logger.(è¿”8×„‡´…2J$b426fb95-4a62-487a-9282-85d91e6d233d
+m	java:S106c"+Replace this use of System.out by a logger.(Ü®¦™8×„‡´…2J$4694ba4b-f353-40d1-8bad-2461272f220a
+y
+java:S2696i"6Make the enclosing method "static" or remove this set.(‹¢Æá8×„‡´…2J$7785d548-5d28-42a9-a96d-3347a22501d2
+m	java:S106j"+Replace this use of System.out by a logger.(—şİæ8×„‡´…2J$ac3f14b2-826c-41d2-b03e-455329180a09
+r	java:S106n"+Replace this use of System.out by a logger.(šÚŞ«ùÿÿÿÿ8×„‡´…2J$7eb28507-9d28-4b9f-afa5-b436296ef2c5
+m	java:S106p"+Replace this use of System.out by a logger.(è¿”8×„‡´…2J$75a88ee3-4f10-4a47-839b-2842cffa7fa2
+m	java:S106s"+Replace this use of System.out by a logger.(è¿”8×„‡´…2J$1d9730db-5b77-4e67-8899-3812c8c494ef
+m	java:S106~"+Replace this use of System.out by a logger.(Ü®¦™8×„‡´…2J$03a6c77b-ef38-4417-8d6f-39cb32e50c6a
+
+java:S2696„"6Make the enclosing method "static" or remove this set.(ˆ˜Ë£øÿÿÿÿ8×„‡´…2J$9a288e2f-ca6f-4f04-a839-580803a0ec29
+n	java:S106…"+Replace this use of System.out by a logger.(—şİæ8×„‡´…2J$6c6ed633-fe05-4e41-bf61-c13a67a3c9f9
+s	java:S106‰"+Replace this use of System.out by a logger.(šÚŞ«ùÿÿÿÿ8×„‡´…2J$77b07bd6-bfd9-4439-9f73-e6ae6f851f96
+n	java:S106‹"+Replace this use of System.out by a logger.(è¿”8×„‡´…2J$bd481016-bc4e-41eb-b9b1-34c4412b2fe9
+n	java:S106"+Replace this use of System.out by a logger.(è¿”8×„‡´…2J$e61d9683-012b-43a5-a4ca-c8553da0f844
+s	java:S106”"+Replace this use of System.out by a logger.(ÅŠ¤Ùøÿÿÿÿ8×„‡´…2J$574aa753-628f-4e0c-9300-dc665db126c9
+q
+java:S5665•"(Remove this unnecessary escape sequence.(«ùŞúÿÿÿÿ8×„‡´…2J$c3f98cbc-aad5-4665-a8ed-3dee7d840988
+
+java:S2696¡"6Make the enclosing method "static" or remove this set.(ş¦ëĞúÿÿÿÿ8×„‡´…2J$7c46cb53-1c7e-471e-a166-9dd0209c75a9
+
+java:S2696¥"6Make the enclosing method "static" or remove this set.(Áª³¬úÿÿÿÿ8×„‡´…2J$87f8a98d-18c2-4c31-899c-41602e27fb49
+z
+java:S2696©"6Make the enclosing method "static" or remove this set.(Æ˜Õá8×„‡´…2J$a1847248-6a13-4a4f-a939-eca717ce21d3
+s	java:S106¬"+Replace this use of System.out by a logger.(§¢¢ñûÿÿÿÿ8×„‡´…2J$96386391-11fc-4de2-ab84-96a6da364772
+n	java:S106°"+Replace this use of System.out by a logger.(Ü®¦™8×„‡´…2J$4d729e08-5b55-413f-ba4d-973a47fbdc29
+s	java:S106µ"+Replace this use of System.out by a logger.(­ë÷±ıÿÿÿÿ8×„‡´…2J$13d389f2-2ca9-4bae-b961-91934113b85a
+s	java:S106Ç"+Replace this use of System.out by a logger.(Şì´âùÿÿÿÿ8×„‡´…2J$1e9a0f58-a9ab-4e2e-9b10-0f8e84d14cf5
+n	java:S106È"+Replace this use of System.out by a logger.(¦© ©8×„‡´…2J$47dc7633-b5ec-48ed-80f8-539ae4f6a9a2
+s	java:S106É"+Replace this use of System.out by a logger.(îóßëıÿÿÿÿ8×„‡´…2J$006881ea-0626-43aa-94de-91307a685211
+m	java:S106Ê"+Replace this use of System.out by a logger.(¬ÖÄV8×„‡´…2J$c27ba61e-ecc7-4d36-bcbc-b85e77d86d99
+n	java:S106Ë"+Replace this use of System.out by a logger.(òø¿‚8×„‡´…2J$b2297f12-bdf7-42a3-b8f3-aee56714cd09
